@@ -1,2 +1,2 @@
-# tusk
+# World timezone app
 Git command trial
